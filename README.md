@@ -1,2 +1,2 @@
 # Picture
-imgage hosting
+image hosting
